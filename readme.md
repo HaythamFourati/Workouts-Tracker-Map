@@ -33,3 +33,7 @@ The project focuses on the following core concepts:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/workouts-tracker-app.git
+
+   ## 🌐 Live Demo
+
+Check out the live demo [here](https://leaflet-workouts-tracker.netlify.app/).
